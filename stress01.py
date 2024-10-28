@@ -1,0 +1,1 @@
+print('Một buổi tố vô nghĩa')
